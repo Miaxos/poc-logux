@@ -1,10 +1,10 @@
 [package]
 name = "poc_logux"
 version = "0.1.0"
-authors = ["Anthony Griffon <anthony.griffon@iadvize.com>"]
+authors = ["Anthony Griffon <an.griffon@gmail.com>"]
 description = "Just a poc right now"
-homepage = "https://github.com/miaxos/poc-logtux"
-repository = "https://github.com/miaxos/poc-logtux"
+homepage = "https://github.com/miaxos/poc-logux"
+repository = "https://github.com/miaxos/poc-logux"
 keywords = ["actix", "logtux", "redux", "event", "http"]
 readme = "README.md"
 edition = "2018"
